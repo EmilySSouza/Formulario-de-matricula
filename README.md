@@ -29,12 +29,14 @@ O projeto está hospedado no GitHub Pages e pode ser acessado em:
 
 
 ## 📁 Estrutura do Projeto
+```bash
 Formulario-de-matricula/
 ├── index.html          # Estrutura principal do formulário
 ├── styles/             # Pasta de estilos CSS
 │   └── style.css      # Estilos principais do projeto
 ├── assets/             # Recursos e imagens
 └── README.md           # Este arquivo
+```
 
 
 ## 🎨 Características Técnicas
